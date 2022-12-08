@@ -1,0 +1,23 @@
+table,th,td{
+    border: 3px solid black;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 15px;
+  }
+
+table{
+    margin-left: 30%;
+    margin-top: 2%;
+}  
+
+#a{
+    margin-left: 50%;
+    margin-top: 3%;
+}
+
+h3{
+    padding: 15px;
+    text-align: center;
+}
